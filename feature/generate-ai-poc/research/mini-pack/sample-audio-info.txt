@@ -1,0 +1,13 @@
+Sample audio info
+
+This file describes how to include a sample audio file in the mini-pack.
+
+Recommended format: MP3, 128 kbps, mono or stereo, duration 5-15s
+Filename suggestion: sample-tts.mp3
+
+If you do not have an audio file, you can generate one using gTTS, Coqui TTS, or other TTS providers.
+
+Example gTTS command (Python):
+from gtts import gTTS
+tts = gTTS(text='สวัสดีครับ นี่คือตัวอย่างเสียง', lang='th')
+tts.save('sample-tts.mp3')

@@ -1,0 +1,5 @@
+# ใส่ลิงก์ Canva template หรือไฟล์ดาวน์โหลดที่แชร์ได้ที่นี่
+# ตัวอย่าง:
+# https://www.canva.com/design/EXAMPLE_LINK
+
+Please replace this text with the real download link (Google Drive / Dropbox / Canva share link).

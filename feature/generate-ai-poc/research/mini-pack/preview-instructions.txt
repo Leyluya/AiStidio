@@ -1,0 +1,13 @@
+Preview image instructions
+
+ไฟล์ภาพตัวอย่างที่แนะนำ:
+- preview-vertical.png: 1080 x 1920 (use for mobile mockup)
+- preview-thumb.png: 1200 x 628 (use for social share / ad)
+- preview-grid.png: 1024 x 1024 (gallery preview)
+
+แนะนำการสร้าง mockup อย่างรวดเร็ว:
+1. เปิด Canva → สร้างไฟล์ขนาด 1080x1920
+2. ใส่ภาพตัวอย่าง template และ overlay text: "Free mini‑pack"
+3. ดาวน์โหลดเป็น PNG (300 dpi) และอัปโหลดไปยัง Google Drive
+
+ถ้าต้องการ ผมสามารถสร้าง mockup เบื้องต้นให้ แต่ต้องใช้ไฟล์ภาพ/โลโก้จากคุณ

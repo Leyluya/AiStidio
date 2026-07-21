@@ -1,0 +1,8 @@
+{
+  "transport": ["grab", "taxi", "bus"],
+  "food": ["7-eleven", "restaurant", "cafe", "coffee"],
+  "groceries": ["big c", "lotus", "tesco", "makro"],
+  "shopping": ["shopee", "lazada", "amazon"],
+  "utilities": ["dtac", "ais", "true", "internet", "electricity"],
+  "entertainment": ["netflix", "spotify", "youtube"]
+}

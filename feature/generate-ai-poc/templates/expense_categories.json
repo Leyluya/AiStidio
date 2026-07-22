@@ -1,0 +1,18 @@
+{
+  "transport": ["grab", "lineman", "taxi", "bts", "mrt"],
+  "food": ["7-eleven", "family mart", "foodpanda", "ubereats", "mcdonald", "kfc", "ร้านอาหาร"],
+  "groceries": ["big c", "lotus", "tops", "makro", "tesco"],
+  "shopping": ["shopee", "lazada", "jd central", "amazon"],
+  "utilities": ["true", "truemoney", "dtac", "ais", "internet", "electricity", "egat"],
+  "coffee": ["starbucks", "cafe"],
+  "entertainment": ["netflix", "spotify", "youtube", "major cineplex", "sf cinema"],
+  "bank": ["kbank", "scb", "bbl", "krungsri", "ktc", "tmb"],
+  "health": ["boots", "watsons", "pharmacy", "hospital"],
+  "education": ["university", "course", "tuition"],
+  "rent": ["rent", "mortgage"],
+  "insurance": ["insurance"],
+  "tax": ["tax", "vat"],
+  "travel": ["airasia", "thai airways", "booking.com", "agoda", "hotel"],
+  "gifts": ["gift"],
+  "donation": ["donation"]
+}
